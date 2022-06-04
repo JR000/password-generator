@@ -1,0 +1,11 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "A minimalistic password generation tool for terminal written in javascript.",
+  "main": "pass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JR000",
+  "license": "ISC"
+}
