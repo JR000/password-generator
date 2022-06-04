@@ -1,5 +1,5 @@
 {
-  "name": "password-generator",
+  "name": "pwg",
   "version": "1.0.0",
   "description": "A minimalistic password generation tool for terminal written in javascript.",
   "main": "pass.js",
